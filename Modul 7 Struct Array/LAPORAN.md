@@ -313,16 +313,20 @@ func main() {
 ![Output](output/soal4.png)
 Program ini digunakan untuk membaca teks karakter satu per satu, membalik urutan teks, dan memeriksa apakah teks tersebut merupakan palindrom.
 NMAX: Menyatakan ukuran maksimum array sebanyak 127 karakter.
+
 Fungsi isiArray
 - Bertugas mengisi array `t` dengan karakter dari input pengguna.
 - Proses berhenti saat pengguna mengetik titik (`.`) atau jumlah karakter melebihi NMAX.
 - Nilai n berisi jumlah karakter yang berhasil disimpan.
+  
 Fungsi cetakArray
 - Mencetak semua karakter di array dari indeks 0 hingga n-1.
 - Digunakan untuk menampilkan teks yang telah dibalik.
+  
 Fungsi balikanArray
 - Menukar posisi elemen array dari ujung ke tengah.
 - Digunakan untuk membalik isi teks.
+  
 Fungsi palindrom
 - Mengecek apakah karakter dalam array adalah palindrom.
 - Bandingkan karakter dari awal dengan karakter dari akhir satu per satu.
