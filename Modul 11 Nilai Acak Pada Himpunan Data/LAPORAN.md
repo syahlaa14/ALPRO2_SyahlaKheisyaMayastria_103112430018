@@ -1,4 +1,4 @@
-<h1 align="center">Laporan Praktikum Modul 10 <br>Nilai Acak Pada Himpunan Data</h1>
+<h1 align="center">Laporan Praktikum Modul 11 <br>Nilai Acak Pada Himpunan Data</h1>
 <p align="center">SYAHLA KHEISYA MAYASTRIA - 103112430018</p>
 
 ## Dasar Teori
